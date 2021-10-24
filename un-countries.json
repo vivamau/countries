@@ -7,6 +7,18 @@
     "iso2": "AF",
     "iso3": "AFG",
     "iso-3166": "004",
+    "sover": "UN",
+    "status": 0
+  },
+  {
+    "name": "Åland Islands",
+    "off-name": "Åland",
+    "lat": 0,
+    "long": 0,
+    "iso2": "AX",
+    "iso3": "ALA",
+    "iso3166": "248",
+    "sover": "FI",
     "status": 0
   },
   {
@@ -17,6 +29,7 @@
     "iso2": "AL",
     "iso3": "ALB",
     "iso3166": "008",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -27,6 +40,18 @@
     "iso2": "DZ",
     "iso3": "DZA",
     "iso3166": "012",
+    "sover": "UN",
+    "status": 0
+  },
+  {
+    "name": "American Samoa",
+    "off-name": "The Territory of American Samoa",
+    "lat": 0,
+    "long": 0,
+    "iso2": "AS",
+    "iso3": "ASM",
+    "iso3166": "016",
+    "sover": "US",
     "status": 0
   },
   {
@@ -37,6 +62,7 @@
     "iso2": "AD",
     "iso3": "AND",
     "iso3166": "020",
+    "sover": "",
     "status": 0
   },
   {
@@ -47,6 +73,29 @@
     "iso2": "AO",
     "iso3": "AGO",
     "iso3166": "024",
+    "sover": "",
+    "status": 0
+  },
+  {
+    "name": "Anguilla",
+    "off-name": "Anguilla",
+    "lat": 0,
+    "long": 0,
+    "iso2": "AI",
+    "iso3": "AIA",
+    "iso3166": "660",
+    "sover": "UK",
+    "status": 0
+  },
+  {
+    "name": "Antartica",
+    "off-name": "All land and ice shelves south of the 60th parallel south",
+    "lat": 0,
+    "long": 0,
+    "iso2": "AQ",
+    "iso3": "ATA",
+    "iso3166": "010",
+    "sover": "",
     "status": 0
   },
   {
@@ -57,16 +106,18 @@
     "iso2": "AG",
     "iso3": "ATG",
     "iso3166": "028",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Argentina",
-    "off-name": "Antigua and Barbuda",
+    "off-name": "The Argentine Republic",
     "lat": -34,
     "long": -64,
     "iso2": "AR",
     "iso3": "ARG",
     "iso3166": "032",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -77,6 +128,18 @@
     "iso2": "AM",
     "iso3": "ARM",
     "iso3166": "051",
+    "sover": "",
+    "status": 0
+  },
+  {
+    "name": "Aruba",
+    "off-name": "Aruba",
+    "lat": 0,
+    "long": 0,
+    "iso2": "AW",
+    "iso3": "ABM",
+    "iso3166": "533",
+    "sover": "NL",
     "status": 0
   },
   {
@@ -87,6 +150,7 @@
     "iso2": "AU",
     "iso3": "AUS",
     "iso3166": "036",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -97,6 +161,7 @@
     "iso2": "AU",
     "iso3": "AUS",
     "iso3166": "040",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -107,6 +172,7 @@
     "iso2": "AZ",
     "iso3": "AZE",
     "iso3166": "031",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -117,6 +183,7 @@
     "iso2": "BS",
     "iso3": "BHS",
     "iso3166": "044",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -127,6 +194,7 @@
     "iso2": "BH",
     "iso3": "BHR",
     "iso3166": "048",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -137,6 +205,7 @@
     "iso2": "BD",
     "iso3": "BGD",
     "iso3166": "050",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -147,6 +216,7 @@
     "iso2": "BB",
     "iso3": "BRB",
     "iso3166": "052",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -157,6 +227,7 @@
     "iso2": "BY",
     "iso3": "BLR",
     "iso3166": "112",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -167,6 +238,7 @@
     "iso2": "BE",
     "iso3": "BEL",
     "iso3166": "056",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -174,9 +246,10 @@
     "off-name": "Belize",
     "lat": 17.25,
     "long": -88.75,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "iso3166": "084",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -187,6 +260,29 @@
     "iso2": "BJ",
     "iso3": "BEN",
     "iso3166": "204",
+    "sover": "UN",
+    "status": 0
+  },
+  {
+    "name": "Benin",
+    "off-name": "The Republic of Benin",
+    "lat": 9.5,
+    "long": 2.25,
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "iso3166": "204",
+    "sover": "UN",
+    "status": 0
+  },
+  {
+    "name": "Bermuda",
+    "off-name": "Bermuda",
+    "lat": 0,
+    "long": 0,
+    "iso2": "BM",
+    "iso3": "BMU",
+    "iso3166": "060",
+    "sover": "UK",
     "status": 0
   },
   {
@@ -197,6 +293,7 @@
     "iso2": "BT",
     "iso3": "BTN",
     "iso3166": "064",
+    "sover": "",
     "status": 0
   },
   {
@@ -207,6 +304,18 @@
     "iso2": "BO",
     "iso3": "BOL",
     "iso3166": "068",
+    "sover": "UN",
+    "status": 0
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "off-name": "Bonaire, Sint Eustatius and Saba",
+    "lat": 0,
+    "long": 0,
+    "iso2": "BQ",
+    "iso3": "BES",
+    "iso3166": "535",
+    "sover": "NL",
     "status": 0
   },
   {
@@ -217,6 +326,7 @@
     "iso2": "BA",
     "iso3": "BIH",
     "iso3166": "070",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -227,6 +337,18 @@
     "iso2": "BW",
     "iso3": "BWA",
     "iso3166": "072",
+    "sover": "UN",
+    "status": 0
+  },
+  {
+    "name": "Bouvet Island",
+    "off-name": "Bouvet Island",
+    "lat": -10,
+    "long": -55,
+    "iso2": "BV",
+    "iso3": "BVT",
+    "iso3166": "074",
+    "sover": "NO",
     "status": 0
   },
   {
@@ -237,8 +359,21 @@
     "iso2": "BR",
     "iso3": "BRA",
     "iso3166": "076",
+    "sover": "",
     "status": 0
   },
+  {
+    "name": "British Indian Ocean Territory (the)",
+    "off-name": "The British Indian Ocean Territory",
+    "lat": 0,
+    "long": 0,
+    "iso2": "IO",
+    "iso3": "IOT",
+    "iso3166": "086",
+    "sover": "UK",
+    "status": 0
+  },
+
   {
     "name": "Brunei Darussalam",
     "off-name": "The Nation of Brunei, the Abode of Peace",
@@ -247,6 +382,7 @@
     "iso2": "BN",
     "iso3": "BRN",
     "iso3166": "096",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -257,6 +393,7 @@
     "iso2": "BG",
     "iso3": "BGR",
     "iso3166": "100",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -267,6 +404,7 @@
     "iso2": "BF",
     "iso3": "BFA",
     "iso3166": "854",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -277,6 +415,7 @@
     "iso2": "BI",
     "iso3": "BDI",
     "iso3166": "108",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -287,6 +426,7 @@
     "iso2": "CV",
     "iso3": "CPV",
     "iso3166": "132",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -297,6 +437,7 @@
     "iso2": "KH",
     "iso3": "KHM",
     "iso3166": "116",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -307,6 +448,7 @@
     "iso2": "CM",
     "iso3": "CMR",
     "iso3166": "120",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -317,6 +459,18 @@
     "iso2": "CA",
     "iso3": "CAN",
     "iso3166": "124",
+    "sover": "UN",
+    "status": 0
+  },
+  {
+    "name": "Cayman Islands (the)",
+    "off-name": "The Cayman Islands",
+    "lat": 0,
+    "long": -0,
+    "iso2": "KY",
+    "iso3": "CYM",
+    "iso3166": "136",
+    "sover": "UK",
     "status": 0
   },
   {
@@ -327,6 +481,7 @@
     "iso2": "CF",
     "iso3": "CAF",
     "iso3166": "140",
+    "sover": "",
     "status": 0
   },
   {
@@ -337,6 +492,7 @@
     "iso2": "TD",
     "iso3": "TCD",
     "iso3166": "148",
+    "sover": "",
     "status": 0
   },
   {
@@ -347,6 +503,7 @@
     "iso2": "CL",
     "iso3": "CHL",
     "iso3166": "152",
+    "sover": "",
     "status": 0
   },
   {
@@ -357,6 +514,29 @@
     "iso2": "CN",
     "iso3": "CHN",
     "iso3166": "156",
+    "sover": "",
+    "status": 0
+  },
+  {
+    "name": "Christmas Island",
+    "off-name": "The Territory of Christmas Island",
+    "lat": 0,
+    "long": 0,
+    "iso2": "CX",
+    "iso3": "CXR",
+    "iso3166": "162",
+    "sover": "AU",
+    "status": 0
+  },
+  {
+    "name": "Coco (Keeling) Islands",
+    "off-name": "The Territory of Cocos (Keeling) Islands",
+    "lat": 0,
+    "long": 0,
+    "iso2": "CC",
+    "iso3": "CCK",
+    "iso3166": "166",
+    "sover": "AU",
     "status": 0
   },
   {
@@ -367,6 +547,7 @@
     "iso2": "CO",
     "iso3": "COL",
     "iso3166": "170",
+    "sover": "UN",
     "status": 0
   },
   {
@@ -377,176 +558,194 @@
     "iso2": "KM",
     "iso3": "COM",
     "iso3166": "174",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Congo",
-    "off-name": "",
+    "off-name": "The Democratric Republic of the Congo",
     "lat": -1,
     "long": 15,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "CD",
+    "iso3": "COD",
+    "iso3166": "180",
+    "sover": "UN",
+    "status": 0
+  },
+  {
+    "name": "Cook Islands",
+    "off-name": "The Cook Islands",
+    "lat": 0,
+    "long": 0,
+    "iso2": "CK",
+    "iso3": "COK",
+    "iso3166": "184",
+    "sover": "NZ",
     "status": 0
   },
   {
     "name": "Costa Rica",
-    "off-name": "",
+    "off-name": "The Republic of Costa Rica",
     "lat": 10,
     "long": -84,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "CR",
+    "iso3": "CRI",
+    "iso3166": "188",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Côte d’Ivoire",
-    "off-name": "",
+    "off-name": "The Republic of Côte d'Ivoire",
     "lat": 8,
     "long": -5,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "CI",
+    "iso3": "CIV",
+    "iso3166": "384",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Croatia",
-    "off-name": "",
+    "off-name": "The Republic of Croatia",
     "lat": 45.166667,
     "long": 15.5,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "HR",
+    "iso3": "HRV",
+    "iso3166": "191",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Cuba",
-    "off-name": "",
+    "off-name": "The Republic of Cuba",
     "lat": 22,
     "long": -79.5,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "CU",
+    "iso3": "CUB",
+    "iso3166": "192",
+    "sover": "UN",
+    "status": 0
+  },
+  {
+    "name": "Curaçao",
+    "off-name": "The Country of Curaçao",
+    "lat": 22,
+    "long": -79.5,
+    "iso2": "CW",
+    "iso3": "CUW",
+    "iso3166": "531",
+    "sover": "NL",
     "status": 0
   },
   {
     "name": "Cyprus",
-    "off-name": "",
+    "off-name": "The Republic of Cyprus",
     "lat": 35,
     "long": 33,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "CY",
+    "iso3": "CYP",
+    "iso3166": "196",
+    "sover": "UN",
     "status": 0
   },
   {
-    "name": "Czech Republic",
-    "off-name": "",
+    "name": "Czechia",
+    "off-name": "The Czech Republic",
     "lat": 49.75,
     "long": 15,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
-    "status": 0
-  },
-  {
-    "name": "Democratic People’s Republic of Korea",
-    "off-name": "",
-    "lat": 40,
-    "long": 127,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
-    "status": 0
-  },
-  {
-    "name": "Democratic Republic of the Congo",
-    "off-name": "",
-    "lat": 0,
-    "long": 25,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "iso3166": "203",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Denmark",
-    "off-name": "",
+    "off-name": "The Kindom of Denmark",
     "lat": 56,
     "long": 10,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "DK",
+    "iso3": "DNK",
+    "iso3166": "208",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Djibouti",
-    "off-name": "",
+    "off-name": "The Republic of Djibouti",
     "lat": 11.5,
     "long": 42.5,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "iso3166": "262",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Dominica",
-    "off-name": "",
+    "off-name": "The Commonwealth of Dominica",
     "lat": 15.5,
     "long": -61.333333,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "DM",
+    "iso3": "DMA",
+    "iso3166": "212",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Dominican Republic",
-    "off-name": "",
+    "off-name": "The Dominican Republic",
     "lat": 19,
     "long": -70.666667,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "DO",
+    "iso3": "DOM",
+    "iso3166": "214",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Ecuador",
-    "off-name": "",
+    "off-name": "The Republic of Ecuador",
     "lat": -2,
     "long": -77.5,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "EC",
+    "iso3": "ECU",
+    "iso3166": "218",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Egypt",
-    "off-name": "",
+    "off-name": "The Arab Republic of Egypt",
     "lat": 27,
     "long": 30,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "EG",
+    "iso3": "EGY",
+    "iso3166": "818",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "El Salvador",
-    "off-name": "",
+    "off-name": "The Republic of El Salvador",
     "lat": 13.833333,
     "long": -88.916667,
-    "iso2": "",
-    "iso3": "",
-    "iso3166": "",
+    "iso2": "SV",
+    "iso3": "SLV",
+    "iso3166": "222",
+    "sover": "UN",
     "status": 0
   },
   {
     "name": "Equatorial Guinea",
-    "off-name": "",
+    "off-name": "The Republic of Equatorial Guinea",
     "lat": 2,
     "long": 10,
-    "iso2": "",
-    "iso3": "",
+    "iso2": "GQ",
+    "iso3": "GNQ",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -557,6 +756,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -567,6 +767,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -577,6 +778,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -587,6 +789,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -597,6 +800,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -607,6 +811,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -617,6 +822,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -627,6 +833,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -637,6 +844,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -647,6 +855,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -657,6 +866,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -667,6 +877,7 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
@@ -887,6 +1098,17 @@
     "iso2": "",
     "iso3": "",
     "iso3166": "",
+    "status": 0
+  },
+  {
+    "name": "Korea",
+    "off-name": "Democratic People’s Republic of Korea",
+    "lat": 40,
+    "long": 127,
+    "iso2": "",
+    "iso3": "",
+    "iso3166": "",
+    "sover": "",
     "status": 0
   },
   {
